@@ -21,10 +21,10 @@
   },
   "homepage": "https://github.com/Ajusa/lit#readme",
   "devDependencies": {
-    "gulp": "^4.0.0",
-    "gulp-clean-css": "^3.9.2",
-    "gulp-postcss": "^7.0.1",
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-postcss": "^8.0.0",
     "gulp-zopfli": "^1.0.0",
-    "postcss-css-variables": "^0.8.0"
+    "postcss-css-variables": "^0.17.0"
   }
 }
